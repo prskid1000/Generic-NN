@@ -1,2 +1,2 @@
-# neurnarray
-A neural network with recursive backpropogation algorithm
+# Neural-Network-Library
+A Neural Network Library with recursive backpropogation algorithm
