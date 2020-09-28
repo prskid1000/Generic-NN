@@ -1,2 +1,2 @@
 # Neural-Network-Library
-A Neural Network Library with recursive backpropogation algorithm
+A NN Library with Recursive Backpropogation Algorithm
