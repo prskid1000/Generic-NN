@@ -1,4 +1,4 @@
- class test2
+ class Test_2
 {
     public static void main(String args[])throws Exception
     {
@@ -33,11 +33,11 @@
             e--;
             for(int i=0;i<4;i++)
             {
-          n[0].ff(in[i][0]);
-          n[1].ff(in[i][1]);
-          System.out.println(d[i]+"="+i+"="+n3.fire());
-         e=e+n3.cerr(d[i],0.2,0.1);
-          }
+              n[0].ff(in[i][0]);
+              n[1].ff(in[i][1]);
+              System.out.println(d[i]+"="+i+"="+n3.fire());
+             e=e+n3.cerr(d[i],0.2,0.1);
+           }
         }
     }
 }

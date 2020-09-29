@@ -1,2 +1,2 @@
 # Generic-Neural-Network
-A NN Library with Recursive Backpropogation Algorithm
+A NN Model with Recursive Backpropogation
